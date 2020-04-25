@@ -1,0 +1,7 @@
+C:\Users\Cheeby\source\repos\YapayZekaÖdevi\YapayZekaÖdevi\bin\Debug\YapayZekaÖdevi.exe.config
+C:\Users\Cheeby\source\repos\YapayZekaÖdevi\YapayZekaÖdevi\bin\Debug\YapayZekaÖdevi.exe
+C:\Users\Cheeby\source\repos\YapayZekaÖdevi\YapayZekaÖdevi\bin\Debug\YapayZekaÖdevi.pdb
+C:\Users\Cheeby\source\repos\YapayZekaÖdevi\YapayZekaÖdevi\obj\Debug\YapayZekaÖdevi.csprojAssemblyReference.cache
+C:\Users\Cheeby\source\repos\YapayZekaÖdevi\YapayZekaÖdevi\obj\Debug\YapayZekaÖdevi.csproj.CoreCompileInputs.cache
+C:\Users\Cheeby\source\repos\YapayZekaÖdevi\YapayZekaÖdevi\obj\Debug\YapayZekaÖdevi.exe
+C:\Users\Cheeby\source\repos\YapayZekaÖdevi\YapayZekaÖdevi\obj\Debug\YapayZekaÖdevi.pdb
